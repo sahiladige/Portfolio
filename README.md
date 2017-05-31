@@ -1,5 +1,4 @@
-# Welcome to My Portoflio
-### By Sahil Adige
+# My Portoflio by Sahil Adige
 
 [Arcade Pong Game](https://sahiladige.github.io/Portfolio/UpdatedPong/)
 
