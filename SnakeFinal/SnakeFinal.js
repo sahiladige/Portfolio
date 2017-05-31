@@ -17,6 +17,7 @@ function draw() {
   food.show();
 }
 
+//Docs
 document.onkeydown = function(f) {
   switch (f.keyCode) {
 
