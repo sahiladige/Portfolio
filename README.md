@@ -1,4 +1,4 @@
-# My Portoflio by Sahil Adige
+# My Portfolio by Sahil Adige
 
 [Arcade Pong Game](https://sahiladige.github.io/Portfolio/UpdatedPong/)
 
