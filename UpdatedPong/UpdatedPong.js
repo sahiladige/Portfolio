@@ -72,7 +72,7 @@ function draw() {
   }
 }
 
-//Random color when clicked
+//Random color when is clicked
 function mousePressed() {
   fill(random(255), random(255), random(255));
   score++;
