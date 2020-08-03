@@ -6,8 +6,6 @@
 #### Email: adige001@umn.edu
 
 ### Classic Arcade Games
-#### For the Pong game, clicking the mouse each time will earn 1 point and 5 points for each successful return
-[Arcade Pong Game](https://sahiladige.github.io/Portfolio/UpdatedPong/)
+#### For the [Arcade Pong Game](https://sahiladige.github.io/Portfolio/UpdatedPong/), clicking the mouse each time will earn 1 point and 5 points for each successful return
+#### For the [Snake Game](https://sahiladige.github.io/Portfolio/SnakeFinal/) the more food you eat, the longer the snake will grow
 
-#### For the Snake game the more food you eat, the longer the snake will grow
-[Snake Game](https://sahiladige.github.io/Portfolio/SnakeFinal/)
